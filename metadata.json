@@ -1,0 +1,5 @@
+{
+  "name": "GenQuiz AI - India Edition",
+  "description": "An intelligent quiz application generating unique India-centric questions across categories like Movies, Music, and Science using Google Gemini AI.",
+  "requestFramePermissions": []
+}
